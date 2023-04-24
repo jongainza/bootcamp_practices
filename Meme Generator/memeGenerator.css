@@ -1,0 +1,87 @@
+/*
+#topText{
+    position:absolute;
+
+}
+
+#bottonText {
+    position: absolute;
+}
+
+#image {
+    position: relative;
+}*/
+#memeform{
+    background-color: bisque;
+    padding: 20px;
+}
+
+.data {
+    background-color: solid rgb(63, 44, 44);
+    border-radius: 25px;
+    color: salmon;
+    padding:18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: fantasy;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+ .botton{
+    background-origin: solid black;
+    border-radius: 25px;
+    color: salmon;
+    padding:18px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    font-family: fantasy;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ .label{
+    background-origin: solid black;
+    color: salmon;
+    padding:18px;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    font-family: fantasy;
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 500px;
+ }
+ body{
+    background-color: grey;
+ }
+ .fot{
+    width: 100%;
+ }
+
+ .arr{
+    font-size: 16px;
+    font-family: fantasy;
+    position: absolute;
+    top: 8px;
+    left: 50%;
+    
+ }
+ .aba{
+   font-size: 15px;
+   font-family: fantasy;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
+ .container {
+   position: relative;
+   color: aliceblue;
+   text-align: center;
+
+ }

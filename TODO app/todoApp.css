@@ -1,0 +1,12 @@
+.completed{
+    font-size: 36px;
+    color: rgb(158, 150, 150);
+    text-decoration: line-through;
+}
+.todo {
+    font-size: 40px;
+    
+}
+.todo:hover{
+    color: blueviolet;
+}
